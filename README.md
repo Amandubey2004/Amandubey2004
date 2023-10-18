@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amandubey2004&label=Profile%20views&color=0e75b6&style=flat" alt="amandubey2004" /> </p>
 
-- 🔭 I’m currently working on **Face Recognistion Attendence System**
+- 🔭 I’m currently Learning **Javascript,react.js,node.js**
 
-- 💬 Ask me about **java,react and node**
+- 💬 Ask me about **java,HTML,CSS**
 
 - 📫 How to reach me **dubeyaman7969@gmail.com**
 
